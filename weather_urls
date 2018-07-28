@@ -1,0 +1,7 @@
+# Pairs of city, forecast URL
+ΣΑΜΟΣ,http://www.meteo.gr/cf-print.cfm?city_id=14
+ΙΚΑΡΙΑ,http://www.meteo.gr/cf-print.cfm?city_id=74
+ΠΑΤΜΟΣ,http://www.meteo.gr/cf-print.cfm?city_id=215
+ΧΙΟΣ,http://www.meteo.gr/cf-print.cfm?city_id=11
+ΑΙΔΗΝΙΟ,https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il=Aydin
+ΣΜΥΡΝΗ,https://www.mgm.gov.tr/tahmin/il-ve-ilceler.aspx?il=Izmir
